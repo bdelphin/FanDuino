@@ -1,7 +1,7 @@
 # FanDuino
 
 FanDuino is a simple DC fan controller for Arduino.
-Designed for regulate 3pin PC fans with PWM.
+Designed to regulate 3pin PC fans with PWM.
 
 ## Materiel needed
 
